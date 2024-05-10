@@ -1,0 +1,19 @@
+[
+    {
+        "company":"Baanyan Software Services",
+        "location":"Kolkata, India",
+        "role":"US IT Recruiter",
+        "duration":"Aug 2023-May 2024",
+        "logo":"images/bysoft.jpg",
+        "type": "On-site"
+    },
+    {
+        "company":"CBNITS India Pvt Ltd",
+        "location":"Kolkata, India",
+        "role":"Junior Java Developer",
+        "duration":"July 2022-Dec 2022",
+        "logo":"images/cb1.png",
+        "type": "On-site"
+    }
+   
+]
