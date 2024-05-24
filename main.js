@@ -22,8 +22,8 @@ function changeNavIcon() {
 
 function download(e) {
   var link = document.createElement("a");
-  link.href = "resources/Resume_Vikas Kumar.pdf";
-  link.download = "Resume_Vikas Kumar.pdf";
+  link.href = "resources/";
+  link.download = "";
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
